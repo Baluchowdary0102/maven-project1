@@ -40,9 +40,6 @@ height:400px;
 <h1>NALLABOTHULA BALU</h1>
 <h1>+91-8125828286</h1>
 
-<h2>Polarapu Prasad</h2>
-<h2>+91-8383917484</h2>
-
 </div>
 </div>
 </body>
